@@ -1,6 +1,12 @@
 # Proyectos-Kotlin
 Proyectos en Kotlin!!!
 
-## Imagen de peticiones en Postman:
+## Herramientas usadas:
 
-![test (https://github.com/Andres29AC/Fundamentos-Kotlin/tree/main/IntellJIdea-proyectos/ktor-Backend/img/test.jpeg)]()
+### Postman
+
+(https://www.postman.com/)
+
+### IntellJIDEA
+
+(https://www.jetbrains.com/idea/)
